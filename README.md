@@ -1,2 +1,2 @@
-# C41RV_SpeedRacer_StudentActivity
-Student Activity
+# Speed Racer
+Multiplayer Car Racing Game
